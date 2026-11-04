@@ -1,7 +1,3 @@
 EVIDENCIA: GA7-220501096-AA2-EV01 - SumaPets
 
-Pega aquí el enlace REAL del repositorio remoto del equipo (por ejemplo, GitHub o GitLab):
-URL DEL REPOSITORIO: [PEGAR AQUÍ EL ENLACE]
-
-No entregues este texto con el marcador. Cuando el repositorio esté creado y el código publicado,
-copia la dirección completa del navegador y reemplaza el marcador anterior.
+https://github.com/Elicollantes/Andrea-Noguera-El-as-Collantes--GA7-220501096-AA2-EV01
