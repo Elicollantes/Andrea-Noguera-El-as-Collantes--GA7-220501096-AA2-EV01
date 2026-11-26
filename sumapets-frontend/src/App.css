@@ -1,0 +1,115 @@
+:root {
+  font-family: Arial, sans-serif;
+  color: #222;
+  background: white;
+}
+
+body {
+  display: block;
+  margin: 0;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  padding: 10px;
+  text-align: left;
+}
+
+.barra-superior {
+  padding: 10px;
+  background: #eeeeee;
+  border-bottom: 1px solid #999;
+}
+
+.marca {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.marca-etiqueta,
+.texto-etiqueta {
+  margin: 0;
+  font-size: 12px;
+}
+
+.marca h1 {
+  margin: 3px 0;
+}
+
+.contenedor {
+  max-width: 1000px;
+  margin: auto;
+}
+
+.resumen {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.tarjeta-resumen,
+.panel {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #999;
+}
+
+.tarjeta-resumen {
+  flex: 1;
+}
+
+.tarjeta-resumen span,
+.tarjeta-resumen strong {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.contenido {
+  display: block;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input,
+select {
+  width: 100%;
+  padding: 6px;
+}
+
+.campos-numericos {
+  display: block;
+}
+
+.boton-principal {
+  margin-top: 12px;
+  padding: 7px;
+}
+
+.busqueda {
+  margin-bottom: 10px;
+}
+
+.tabla-contenedor {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 6px;
+  border: 1px solid #999;
+  text-align: left;
+}
+
+th {
+  background: #eeeeee;
+}
